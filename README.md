@@ -7,8 +7,7 @@
     ```bash
     https://www.python.org/
     ```
-* Chạy chương trình
-    
+# Chạy chương trình    
     Vào Windows CMD
     ```bash
     python lmao.py
