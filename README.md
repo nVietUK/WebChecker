@@ -8,7 +8,8 @@
     https://www.python.org/
     ```
 # Chạy chương trình    
-    Vào Windows CMD
+Vào Windows CMD
+
     ```bash
     python lmao.py
     ```
