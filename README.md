@@ -9,4 +9,6 @@
     ```
 # Chạy chương trình    
 Vào Windows CMD
+    ```
     python lmao.py
+    ```
